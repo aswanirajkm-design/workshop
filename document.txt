@@ -1,2 +1,3 @@
 section 1: primary objective-maintain a history
-section 2: brach isolation 
+section 2: branch isolation 
+section 3:pull request establish an audit trail
